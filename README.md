@@ -2,7 +2,7 @@
 
 > **Language**: React JavaScript
 
-> **Description**: A basic counter app.
+> **Description**: A basic counter app. To start the project, please run `npm run dev`.
 
 > **Project preview**:
 
